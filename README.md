@@ -12,17 +12,14 @@ OpenJDK on Ubuntu system.
 
 ## Supported tags and respective Dockerfile links
 
-* jdk-6, 6 [![jdk-6/Dockerfile](https://github.com/xqdocker/ubuntu-openjdk/blob/master/jdk-6/Dockerfile)]()
-* jre-6 [![jre-6/Dockerfile](https://github.com/xqdocker/ubuntu-openjdk/blob/master/jre-6/Dockerfile)]()
-
-* jdk-7, 7 [![jdk-7/Dockerfile](https://github.com/xqdocker/ubuntu-openjdk/blob/master/jdk-7/Dockerfile)]()
-* jre-7 [![jre-7/Dockerfile](https://github.com/xqdocker/ubuntu-openjdk/blob/master/jre-7/Dockerfile)]()
-
-* jdk-8, 8 [![jdk-8/Dockerfile](https://github.com/xqdocker/ubuntu-openjdk/blob/master/jdk-8/Dockerfile)]()
-* jre-8 [![jre-8/Dockerfile](https://github.com/xqdocker/ubuntu-openjdk/blob/master/jre-8/Dockerfile)]()
-
-* jdk-9, 9 [![jdk-9/Dockerfile](https://github.com/xqdocker/ubuntu-openjdk/blob/master/jdk-9/Dockerfile)]()
-* jre-9 [![jre-9/Dockerfile](https://github.com/xqdocker/ubuntu-openjdk/blob/master/jre-9/Dockerfile)]()
+* jdk-6, 6 [jdk-6/Dockerfile](https://github.com/xqdocker/ubuntu-openjdk/blob/master/jdk-6/Dockerfile)
+* jre-6 [jre-6/Dockerfile](https://github.com/xqdocker/ubuntu-openjdk/blob/master/jre-6/Dockerfile)
+* jdk-7, 7 [jdk-7/Dockerfile](https://github.com/xqdocker/ubuntu-openjdk/blob/master/jdk-7/Dockerfile)
+* jre-7 [jre-7/Dockerfile](https://github.com/xqdocker/ubuntu-openjdk/blob/master/jre-7/Dockerfile)
+* jdk-8, 8 [jdk-8/Dockerfile](https://github.com/xqdocker/ubuntu-openjdk/blob/master/jdk-8/Dockerfile)
+* jre-8 [jre-8/Dockerfile](https://github.com/xqdocker/ubuntu-openjdk/blob/master/jre-8/Dockerfile)
+* jdk-9, 9 [jdk-9/Dockerfile](https://github.com/xqdocker/ubuntu-openjdk/blob/master/jdk-9/Dockerfile)
+* jre-9 [jre-9/Dockerfile](https://github.com/xqdocker/ubuntu-openjdk/blob/master/jre-9/Dockerfile)
 
 ## Running
 
