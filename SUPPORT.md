@@ -5,7 +5,7 @@
 Execute the following code and pass the directory name as version.
 
 ```
-$> make build version=[jdk-8]
+$> make build version=[jdk-*]
 ```
 
 ### How to release this repo
@@ -13,7 +13,7 @@ $> make build version=[jdk-8]
 Execute the following code and pass the directory name as version.
 
 ```
-$> make release version=[jdk-8]
+$> make release version=[jdk-*]
 ```
 
 ### end
